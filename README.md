@@ -3,7 +3,7 @@
 ## LP7DPBO2024C1
 ## JANJI 
 ```bash
-Saya Nur Ainun 2202046 mengerjakan LATIHAN PRAKTIKUM 5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek 
+Saya Nur Ainun 2202046 mengerjakan LATIHAN PRAKTIKUM 7 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek 
 untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin. 
 ```
 
